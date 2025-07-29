@@ -1,0 +1,11 @@
+streamlit
+langchain
+chromadb
+openai
+groq
+pdfminer.six
+beautifulsoup4
+requests
+pymupdf
+fpdf
+python-dotenv
